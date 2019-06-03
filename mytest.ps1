@@ -1,0 +1,1 @@
+﻿write-host "This is a powershell script, and im working" -f Green
